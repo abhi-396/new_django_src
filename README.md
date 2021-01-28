@@ -1,5 +1,5 @@
 
-# After getting it's pull either activate virtual environment for project or with global insatlled python
+# After getting it's pull either activate virtual environment for project or go with global insatlled python
 
 # Come to the project structure and install package requirements which is been freezed in requirement.txt using 'pip install -r requirement.txt'
 
